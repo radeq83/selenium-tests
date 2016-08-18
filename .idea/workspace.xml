@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0c9f23b-655c-4164-944f-dc2898cc69b0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/radek/selenium/HomePage.class" afterPath="$PROJECT_DIR$/target/classes/com/radek/selenium/HomePage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/radek/selenium/ProductComparisonPage.class" afterPath="$PROJECT_DIR$/target/classes/com/radek/selenium/ProductComparisonPage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/radek/selenium/ShoppingCartPage.class" afterPath="$PROJECT_DIR$/target/classes/com/radek/selenium/ShoppingCartPage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/radek/selenium/seleniumDemoTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/radek/selenium/seleniumDemoTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pageObjects/java/com/radek/selenium/HomePage.java" afterPath="$PROJECT_DIR$/src/pageObjects/java/com/radek/selenium/HomePage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tests/java/com/radek/selenium/seleniumDemoTest.java" afterPath="$PROJECT_DIR$/src/tests/java/com/radek/selenium/seleniumDemoTest.java" />
     </list>
     <ignored path="selenium-tests.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -687,6 +681,14 @@
       <option name="presentableId" value="Default" />
       <updated>1470992183921</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1471547565710</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1471547565710</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -761,6 +763,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
