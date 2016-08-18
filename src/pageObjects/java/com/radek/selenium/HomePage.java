@@ -63,6 +63,8 @@ import java.util.List;
                 action.moveToElement(it);
                 action.perform();
                 it.click();
+                WebDriverWait wait = new WebDriverWait(driver,5);
+                wait.until(ExpectedConditions.visibilityOf(currencyButton));
                 break;
             }
         }
